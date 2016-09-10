@@ -1,0 +1,2 @@
+  The libnbase is framework libarary base-on TCP/UDP, libnbase using libevent for I/O driver event. You can use it very easy if you have C language network programming.
+
